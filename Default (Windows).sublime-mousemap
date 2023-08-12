@@ -1,0 +1,5 @@
+[
+	// Control font size with your mouse wheel
+	{ "button": "scroll_up", "modifiers": ["ctrl"], "command": "increase_font_size_half_step" },
+	{ "button": "scroll_down", "modifiers": ["ctrl"], "command": "decrease_font_size_half_step" },
+]

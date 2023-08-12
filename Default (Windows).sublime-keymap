@@ -1,0 +1,8 @@
+[
+	// Control the font size with Ctrl + "+" and Ctrl + "-"
+	{ "keys": ["ctrl+keypad_plus"], "command": "increase_font_size_half_step" },
+	{ "keys": ["ctrl++"], "command": "increase_font_size_half_step" },
+	{ "keys": ["ctrl+="], "command": "increase_font_size_half_step" },
+	{ "keys": ["ctrl+keypad_minus"], "command": "decrease_font_size_half_step" },
+	{ "keys": ["ctrl+-"], "command": "decrease_font_size_half_step" },
+]
