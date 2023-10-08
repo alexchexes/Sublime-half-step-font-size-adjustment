@@ -5,4 +5,5 @@
 	{ "keys": ["ctrl+="], "command": "increase_font_size_half_step" },
 	{ "keys": ["ctrl+keypad_minus"], "command": "decrease_font_size_half_step" },
 	{ "keys": ["ctrl+-"], "command": "decrease_font_size_half_step" },
+	{ "keys": ["ctrl+0"], "command": "reset_font_size_to_default" },
 ]
