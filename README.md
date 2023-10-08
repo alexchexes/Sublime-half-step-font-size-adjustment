@@ -25,8 +25,9 @@ When you change the font size with hotkeys/mouse wheel, the status bar displays 
 - Keyboard shortcuts for adjusting font size:
 	- `Ctrl + +` or `Ctrl + =`: Increase font size
 	- `Ctrl + -`: Decrease font size
+	- `Ctrl + 0`: Reset font size to the value specified as `default_font_size = 11.5` inside the `half_step_font_size_adjustment.py`
 
-	> Note: If you prefer not to override the default Sublime Text behavior, you can assign different keybindings of your choice.
+> Note: If you prefer not to override the default Sublime Text behavior, you can assign different keybindings of your choice.
 
 ## Features
 
